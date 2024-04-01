@@ -1,0 +1,10 @@
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\bin\Debug\BilgisayarliGormeDersi.exe.config
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\bin\Debug\BilgisayarliGormeDersi.exe
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\bin\Debug\BilgisayarliGormeDersi.pdb
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\obj\Debug\BilgisayarliGormeDersi.csproj.AssemblyReference.cache
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\obj\Debug\BilgisayarliGormeDersi.Form1.resources
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\obj\Debug\BilgisayarliGormeDersi.Properties.Resources.resources
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\obj\Debug\BilgisayarliGormeDersi.csproj.GenerateResource.cache
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\obj\Debug\BilgisayarliGormeDersi.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\obj\Debug\BilgisayarliGormeDersi.exe
+C:\Users\Ozgur\source\repos\BilgisayarliGormeDersi\BilgisayarliGormeDersi\obj\Debug\BilgisayarliGormeDersi.pdb
